@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Jiyeong%20Choe&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=header&text=Jiyeong%20Choe&fontSize=70&fontAlignY=30&fontColor=ffffff)
 
 <!--
 **jiyeongj/jiyeongj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
